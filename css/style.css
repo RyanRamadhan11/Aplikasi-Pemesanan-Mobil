@@ -1,0 +1,67 @@
+.navcol {
+  background-color: 535353;
+  color: white;
+  padding-left: 50px;
+}
+
+.card-main {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  padding-top: 70px;
+  padding-bottom: 180px;
+}
+
+.card {
+  margin: 20px;
+  justify-content: center;
+  background-color: #c1f4ff;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  padding: 10px;
+}
+
+.navbar a {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.navbar a:hover {
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+  background-color: #c1f4ff;
+  border-radius: 10px;
+}
+
+.footer {
+  color: white;
+  background-color: black;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  justify-content: center;
+  padding: 12px;
+}
+
+.hasil {
+  text-align: center;
+}
+
+table {
+  border: 2px solid rgb(0, 0, 0);
+  margin-top: 10px;
+}
+
+.card-main form table tfoot th input {
+  background-color: #292525;
+  color: white;
+  border-radius: 10px;
+  margin: 10px 10px;
+  padding: 10px;
+}
